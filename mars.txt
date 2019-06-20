@@ -1,2 +1,2 @@
- this is a file for committing into the git, but it is for a trial also.
-this is new
+this is a file for committing into the git, but it is for a trial also.
+this is new, new again. I am trying to understsnd this more.
